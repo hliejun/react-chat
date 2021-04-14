@@ -27,7 +27,7 @@ const AvatarPage = () => {
     <div className='storybook__container'>
       <span className='storybook__text storybook__title'>Avatar Initials</span>
       <span className='storybook__text'>
-        Avatars are images with special properties.
+        Avatars are images with special things.
       </span>
       <span className='storybook__text'>
         Besides inheriting the loading properties of an image,
